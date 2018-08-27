@@ -1,0 +1,15 @@
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\bin\Debug\netcoreapp2.1\API_autoevaluacion_docker.deps.json
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\bin\Debug\netcoreapp2.1\API_autoevaluacion_docker.runtimeconfig.json
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\bin\Debug\netcoreapp2.1\API_autoevaluacion_docker.runtimeconfig.dev.json
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\bin\Debug\netcoreapp2.1\API_autoevaluacion_docker.dll
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\API_autoevaluacion_docker.csprojAssemblyReference.cache
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\API_autoevaluacion_docker.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\API_autoevaluacion_docker.RazorAssemblyInfo.cache
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\API_autoevaluacion_docker.RazorAssemblyInfo.cs
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\API_autoevaluacion_docker.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\API_autoevaluacion_docker.AssemblyInfo.cs
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\API_autoevaluacion_docker.RazorTargetAssemblyInfo.cache
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\bin\Debug\netcoreapp2.1\API_autoevaluacion_docker.pdb
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\API_autoevaluacion_docker.dll
+C:\Users\Desarrollo\source\repos\API_autoevaluacion_docker\API_autoevaluacion_docker\obj\Debug\netcoreapp2.1\API_autoevaluacion_docker.pdb
